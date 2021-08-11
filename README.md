@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codexy-nc&label=Profile%20views&color=0e75b6&style=flat" alt="codexy-nc" /> </p>
 
-- 🤔 **Always looking for a new opportunity to learn, develop and deliver.**
+- 🤔 **Always Looking For A New Opportunity To Learn, Develop and Deliver.**
 
 - 🔭 I’m Student at **Informatics Institute of Technology**
 
