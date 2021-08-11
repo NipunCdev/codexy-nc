@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codexy-nc&label=Profile%20views&color=0e75b6&style=flat" alt="codexy-nc" /> </p>
 
+- 🤔 Always looking for a new opportunity to learn, develop and deliver.
+
 - 🔭 I’m Student at **Informatics Institute of Technology**
 
 - 🌱 I’m currently learning **Java , Flutter , Django**
